@@ -1,5 +1,5 @@
 {
-    "name": "tangent-solutions/powerbi-sdk",
+    "name": "plivinskiy/powerbi-sdk",
     "description": "PHP SDK for working with PowerBI",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Tangent Solutions",
             "homepage": "http://tangentsolutions.co.za/"
+        },
+        {
+            "name": "Pavel Livinskiy",
+            "homepage": "https://livinskiy.de/"
         }
     ],
     "autoload": {
