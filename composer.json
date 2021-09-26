@@ -2,6 +2,7 @@
     "name": "plivinskiy/powerbi-sdk",
     "description": "PHP SDK for working with PowerBI",
     "type": "library",
+    "version": "1.0.2",
     "license": "MIT",
     "authors": [
         {
